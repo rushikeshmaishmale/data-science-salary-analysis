@@ -44,7 +44,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 📈 Salary Distribution
 
-![Salary Distribution](outputs/graphs/salary_distribution.png)
+![Salary Distribution](salary_distribution.png)
 
 ➡️ Most salaries are concentrated in the mid-range, with some high-paying outliers.
 
