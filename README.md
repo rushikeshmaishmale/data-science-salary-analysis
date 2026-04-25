@@ -52,7 +52,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 👨‍💼 Salary vs Experience Level
 
-![Salary vs Experience](outputs/graphs/salary_vs_experience.png)
+![Salary vs Experience](salary_vs_experience.png)
 
 ➡️ Salaries increase significantly with experience level.
 
@@ -60,7 +60,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 🏢 Salary vs Company Size
 
-![Salary vs Company](outputs/graphs/salary_vs_company.png)
+![Salary vs Company](salary_vs_company.png)
 
 ➡️ Large companies generally offer higher salaries.
 
@@ -68,7 +68,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 💼 Salary vs Employment Type
 
-![Salary vs Employment](outputs/graphs/salary_vs_employment.png)
+![Salary vs Employment](salary_vs_employment.png)
 
 ➡️ Full-time roles dominate and provide stable compensation.
 
@@ -76,7 +76,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 📊 Salary Trend Over Years
 
-![Salary Trend](outputs/graphs/salary_trend.png)
+![Salary Trend](salary_trend.png)
 
 ➡️ Salaries show an increasing trend over time.
 
@@ -84,7 +84,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 🔝 Top Job Roles
 
-![Top Roles](outputs/graphs/top_roles.png)
+![Top Roles](top_roles.png)
 
 ➡️ Data Scientist and ML Engineer roles are among the most common.
 
@@ -92,7 +92,7 @@ The objective is to analyze salary trends and build a predictive model to estima
 
 ### 🔥 Correlation Heatmap
 
-![Heatmap](outputs/graphs/heatmap.png)
+![Heatmap](heatmap.png)
 
 ➡️ Experience level and company size have a noticeable impact on salary.
 
@@ -151,4 +151,4 @@ It highlights the importance of feature selection and model tuning in improving 
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Rushikesh Maishmale**
